@@ -1,0 +1,10 @@
+{
+  "name": "vangularjs-meetup-june-4-2014",
+  "version": "0.0.0",
+  "description": "lightning talks",
+  "authors": [
+    "AngularJS Vancouver <http://www.meetup.com/vanangularJS>"
+  ],
+  "license": "MIT",
+  "dependencies": {}
+}
