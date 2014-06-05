@@ -7,7 +7,7 @@ lightning talks
 You can download the contents of this repo with either of the following commands
 
 ```bash
-npm install vangularjs-meetup-june-4-2014
+npm install vangularjs-meetup-june-4-2014-2
 
 bower install vangularjs-meetup-june-4-2014
 ```
